@@ -144,6 +144,10 @@ h1 {
     padding: 0 0 60px;
 
 }
+#mirrorWithEmail a{
+    color: black;
+    text-decoration: underline;
+}
 #mirrorWithEmail h2{
     text-align: center;
     font-size: 48px;
